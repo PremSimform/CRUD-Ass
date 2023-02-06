@@ -1,4 +1,6 @@
-# CRUD-Ass![Screenshot from 2023-02-06 12-27-19](https://user-images.githubusercontent.com/122260605/216903872-aabb4e23-3900-4c5e-99a1-1599f958f469.png)
+# CRUD-Ass!
+[Screenshot from 2023-02-06 12-27-19](https://user-images.githubusercontent.com/122260605/216903872-aabb4e23-3900-4c5e-99a1-1599f958f469.png)
+
 Project Description:
 
 The purpose of this project is to create a Single Page Application (SPA) that features four distinct tabs. The tabs include Home, About Us, Images, and Services. When a user clicks on any of the tabs, the application should smoothly scroll to the corresponding section within the same page, allowing for an intuitive and seamless user experience.
