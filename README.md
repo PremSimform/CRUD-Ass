@@ -1,10 +1,3 @@
 # CRUD-Ass!
-[Screenshot from 2023-02-06 12-27-19](https://user-images.githubusercontent.com/122260605/216903872-aabb4e23-3900-4c5e-99a1-1599f958f469.png)
-
 Project Description:
-
-The purpose of this project is to create a Single Page Application (SPA) that features four distinct tabs. The tabs include Home, About Us, Images, and Services. When a user clicks on any of the tabs, the application should smoothly scroll to the corresponding section within the same page, allowing for an intuitive and seamless user experience.
-
-The Home tab will serve as the main landing page and will provide an overview of the purpose and goals of the application. The About Us tab will contain information about the company, its history, and its mission. The Images tab will feature a visually appealing image slider that showcases the company's products, services, and achievements. Finally, the Services tab will outline the various services that the company offers to its customers.
-
-To implement this project, a combination of HTML, CSS, and JavaScript will be used. The project will be designed with a responsive layout, ensuring optimal viewing experience on various screen sizes. The end goal of this project is to create a clean, modern, and user-friendly Single Page Application that effectively conveys the company's message and values to its audience.
+The purpose of this application is to allow users to manage their products. The user should be able to create new products, update existing products, and filter products by product id. The user should also be able to sort products by product id, product name, and price. The application should have proper validations in place to ensure accurate data entry. The products will be stored using localStorage and routing will be used for viewing and editing products. This application will provide users with a convenient way to manage their products and keep their data organized.
